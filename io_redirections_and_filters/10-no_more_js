@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -fr -R -name *.js
+rm -fr -R *.js -delete
