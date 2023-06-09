@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d /etc/passwd | wc -l
+sudo cat /etc/passwd | cut -d: -f1
